@@ -1,0 +1,1 @@
+C:\Users\Robin\Documents\workspace\rust\rust_book_walkthrough\learn_rust\guessing_game\target\debug\guessing_game.exe: C:\Users\Robin\Documents\workspace\rust\rust_book_walkthrough\learn_rust\guessing_game\src\main.rs

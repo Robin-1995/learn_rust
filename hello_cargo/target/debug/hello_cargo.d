@@ -1,0 +1,1 @@
+C:\Users\Robin\Documents\workspace\rust\rust_book_walkthrough\learn_rust\hello_cargo\target\debug\hello_cargo.exe: C:\Users\Robin\Documents\workspace\rust\rust_book_walkthrough\learn_rust\hello_cargo\src\main.rs
